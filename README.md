@@ -78,4 +78,3 @@ We have worked on three models: a 5-layered CNN, Xception, and a simple CNN mode
 - [4] Unreal Engine: https://www.unrealengine.com/en-US/ue-on-github
 - [5] What is pip: https://realpython.com/what-is-pip/
 
-Please follow these instructions carefully to set up CARLA and run the provided code for your CS 5392 Spring 2023 Assignment-1.
